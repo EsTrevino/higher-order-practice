@@ -9,5 +9,14 @@ How to use:
 --------
 Quick Overview of app
 
-Purpose
--To practice working with higher order higher order components
+**Purpose**
+- To practice working with higher order higher order components
+
+**Things I learned**
+- How to compose and work with higher order components
+- A better understanding of "why" behind them
+- connecting higher order components to redux state
+- I ran into a couple of snags with react router as well, specifically:
+        - you cant pass children into Route,
+        you must add Route inside child component
+        - instead of using context, wrap component in "withRouter" to push.
