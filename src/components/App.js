@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
-import {connect} from 'react-redux';
 import {Route} from 'react-router-dom';
 
 
 import Header from './Header';
 import Resources from './Resources';
+import requireAuth from './higherOrderComponents/require_auth';
 
 
 class App extends Component {
@@ -12,7 +12,7 @@ class App extends Component {
     return(
       <div className="container">
         <Header />
-        <Route path="/resources" component={Resources} />
+        <Route path="/resources" component={requireAuth(Resources)} />
       </div>
     )
   }

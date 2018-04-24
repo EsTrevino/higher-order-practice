@@ -1,8 +1,8 @@
-import CHANGE_AUT from './types.js';
+const CHANGE_AUTH = "change_auth";
 
 export function authenticate(isLoggedIn){
   return{
-    type: CHANGE_AUT,
+    type: CHANGE_AUTH,
     payload: isLoggedIn
   };
 }
