@@ -7,12 +7,12 @@ How to use:
 - If you click "Sign Out" and then try to click on Resources, it will push you back to the home page where you will need to log in again
 
 --------
-#Quick Overview of app#
+**Quick Overview of app**
 
-##Purpose##
+*Purpose*
 - To practice working with higher order higher order components
 
-##Things I learned##
+*Things I learned*
 - How to compose and work with higher order components
 - A better understanding of "why" behind them
 - connecting higher order components to redux state
