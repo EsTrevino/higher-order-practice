@@ -13,6 +13,7 @@ How to use:
 
 *Purpose*
 - To practice working with higher order higher order components
+- The higher order component in this app checks authentication for user, returns the resources component, and handles routing depending on user's authentication status
 - I also did not style the app as I was more focused on the functionality part
 
 *Things I learned*
