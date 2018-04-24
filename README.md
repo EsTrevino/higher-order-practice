@@ -1,13 +1,13 @@
-This project is for my own learning about higher order components from a tutorial.
+[Click here to view app](https://higher-order-practice.herokuapp.com/)
 
-what is a higher order component?
-  -react component that adds some additional functionality or behavior to an
-  existing component that you have already written or plan to write in the future
-  -returns an "enhanced or composed" component
-  -these are a great way to extract functionality that is common to multiple components
-  within our app
-  -helps dry up code
-  -commonly used with 3rd party libraries, for example, the "connect" function from
-  react-redux
+How to use:
+-The Resources tab displays a "secret" that you need to be logged in to see
+-Click the "sign in button" to log in
+-Once logged in, click resources again to see the secret appear on the page
+-If you click "Sign Out" and then try to click on Resources, it will push you back to the home page where you will need to log in again
 
-  
+--------
+Quick Overview of app
+
+Purpose
+-To practice working with higher order higher order components
