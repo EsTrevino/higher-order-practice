@@ -6,11 +6,14 @@ How to use:
 - Once logged in, click resources again to see the secret appear on the page
 - If you click "Sign Out" and then try to click on Resources, it will push you back to the home page where you will need to log in again
 
+
+
 --------
 **Quick Overview of app**
 
 *Purpose*
 - To practice working with higher order higher order components
+- I also did not style the app as I was more focused on the functionality part
 
 *Things I learned*
 - How to compose and work with higher order components
