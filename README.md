@@ -9,10 +9,10 @@ How to use:
 --------
 #Quick Overview of app#
 
-######Purpose######
+##Purpose##
 - To practice working with higher order higher order components
 
-######Things I learned######
+##Things I learned##
 - How to compose and work with higher order components
 - A better understanding of "why" behind them
 - connecting higher order components to redux state
